@@ -1,0 +1,2 @@
+pandas
+pyautoguiL  REGA000441  Garmin
